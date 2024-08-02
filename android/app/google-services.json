@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816834019218",
+    "project_id": "paygofit-7cded",
+    "storage_bucket": "paygofit-7cded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816834019218:android:4c99b2a1d441ff65918b4b",
+        "android_client_info": {
+          "package_name": "com.example.progo_fit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSJdOGSBWrGHGDK5uvpWO6vWJooIHs78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
